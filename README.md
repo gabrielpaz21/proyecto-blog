@@ -1,2 +1,2 @@
 # proyecto-blog
-proyecto de Gabriel Paz
+Proyecto personal para hacer post acerca de mis creencias y habilidades como programador.
